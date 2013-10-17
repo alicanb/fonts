@@ -1,0 +1,159 @@
+ID,Alphabet,Font,Emphasis,Noise Level
+0001,Chinese,FangSong,Bold italic,None
+0002,Chinese,FangSong,Bold,None
+0003,Chinese,FangSong,Italic,None
+0004,Chinese,FangSong,Regular,None
+0005,Chinese,HeiTi,Bold italic,None
+0006,Chinese,HeiTi,Bold,None
+0007,Chinese,HeiTi,Italic,None
+0008,Chinese,HeiTi,Regular,None
+0009,Chinese,KaiTi,Bold italic,None
+0010,Chinese,KaiTi,Bold,None
+0011,Chinese,KaiTi,Italic,None
+0012,Chinese,KaiTi,Regular,None
+0013,Chinese,LiShu,Bold italic,None
+0014,Chinese,LiShu,Bold,None
+0015,Chinese,LiShu,Italic,None
+0016,Chinese,LiShu,Regular,None
+0017,Chinese,SongTi,Bold italic,None
+0018,Chinese,SongTi,Bold,None
+0019,Chinese,SongTi,Italic,None
+0020,Chinese,SongTi,Regular,None
+0021,Chinese,YouYuan,Bold italic,None
+0022,Chinese,YouYuan,Bold,None
+0023,Chinese,YouYuan,Italic,None
+0024,Chinese,YouYuan,Regular,None
+0025,Arabic,Homa,Bold italic,None
+0026,Arabic,Homa,Bold,None
+0027,Arabic,Homa,Italic,None
+0028,Arabic,Homa,Regular,None
+0029,Arabic,Lotus,Bold italic,None
+0030,Arabic,Lotus,Bold,None
+0031,Arabic,Lotus,Italic,None
+0032,Arabic,Lotus,Regular,None
+0033,Arabic,Mitra,Bold italic,None
+0034,Arabic,Mitra,Bold,None
+0035,Arabic,Mitra,Italic,None
+0036,Arabic,Mitra,Regular,None
+0037,Arabic,Nazanin,Bold italic,None
+0038,Arabic,Nazanin,Bold,None
+0039,Arabic,Nazanin,Italic,None
+0040,Arabic,Nazanin,Regular,None
+0041,Arabic,Tahoma,Bold italic,None
+0042,Arabic,Tahoma,Bold,None
+0043,Arabic,Tahoma,Italic,None
+0044,Arabic,Tahoma,Regular,None
+0045,Arabic,Times,Bold italic,None
+0046,Arabic,Times,Bold,None
+0047,Arabic,Times,Italic,None
+0048,Arabic,Times,Regular,None
+0049,Arabic,Titr,Italic,None
+0050,Arabic,Titr,Regular,None
+0051,Arabic,Traffic,Bold italic,None
+0052,Arabic,Traffic,Bold,None
+0053,Arabic,Traffic,Italic,None
+0054,Arabic,Traffic,Regular,None
+0055,Arabic,Yaghut,Bold italic,None
+0056,Arabic,Yaghut,Bold,None
+0057,Arabic,Yaghut,Italic,None
+0058,Arabic,Yaghut,Regular,None
+0059,Arabic,Zar,Bold italic,None
+0060,Arabic,Zar,Bold,None
+0061,Arabic,Zar,Italic,None
+0062,Arabic,Zar,Regular,None
+0063,Latin,Arial,Bold italic,None
+0064,Latin,Arial,Bold,None
+0065,Latin,Arial,Italic,None
+0066,Latin,Arial,Regular,None
+0067,Latin,Bookman,Bold italic,None
+0068,Latin,Bookman,Bold,None
+0069,Latin,Bookman,Italic,None
+0070,Latin,Bookman,Regular,None
+0071,Latin,Century,Bold italic,None
+0072,Latin,Century,Bold,None
+0073,Latin,Century,Italic,None
+0074,Latin,Century,Regular,None
+0075,Latin,Comic Sans MS,Bold italic,None
+0076,Latin,Comic Sans MS,Bold,None
+0077,Latin,Comic Sans MS,Italic,None
+0078,Latin,Comic Sans MS,Regular,None
+0079,Latin,Courier New,Bold italic,None
+0080,Latin,Courier New,Bold,None
+0081,Latin,Courier New,Italic,None
+0082,Latin,Courier New,Regular,None
+0083,Latin,Impact,Bold italic,None
+0084,Latin,Impact,Bold,None
+0085,Latin,Impact,Italic,None
+0086,Latin,Impact,Regular,None
+0087,Latin,Computer Modern,Bold italic,None
+0088,Latin,Computer Modern,Bold,None
+0089,Latin,Computer Modern,Italic,None
+0090,Latin,Computer Modern,Regular,None
+0091,Latin,Times New Roman,Bold italic,None
+0092,Latin,Times New Roman,Bold,None
+0093,Latin,Times New Roman,Italic,None
+0094,Latin,Times New Roman,Regular,None
+0095,Latin,Arial,Bold italic,Low
+0096,Latin,Arial,Bold,Low
+0097,Latin,Arial,Italic,Low
+0098,Latin,Arial,Regular,Low
+0099,Latin,Bookman,Bold italic,Low
+0100,Latin,Bookman,Bold,Low
+0101,Latin,Bookman,Italic,Low
+0102,Latin,Bookman,Regular,Low
+0103,Latin,Century,Bold italic,Low
+0104,Latin,Century,Bold,Low
+0105,Latin,Century,Italic,Low
+0106,Latin,Century,Regular,Low
+0107,Latin,Comic Sans MS,Bold italic,Low
+0108,Latin,Comic Sans MS,Bold,Low
+0109,Latin,Comic Sans MS,Italic,Low
+0110,Latin,Comic Sans MS,Regular,Low
+0111,Latin,Courier New,Bold italic,Low
+0112,Latin,Courier New,Bold,Low
+0113,Latin,Courier New,Italic,Low
+0114,Latin,Courier New,Regular,Low
+0115,Latin,Impact,Bold italic,Low
+0116,Latin,Impact,Bold,Low
+0117,Latin,Impact,Italic,Low
+0118,Latin,Impact,Regular,Low
+0119,Latin,Computer Modern,Bold italic,Low
+0120,Latin,Computer Modern,Bold,Low
+0121,Latin,Computer Modern,Italic,Low
+0122,Latin,Computer Modern,Regular,Low
+0123,Latin,Times New Roman,Bold italic,Low
+0124,Latin,Times New Roman,Bold,Low
+0125,Latin,Times New Roman,Italic,Low
+0126,Latin,Times New Roman,Regular,Low
+0127,Latin,Arial,Bold italic,High
+0128,Latin,Arial,Bold,High
+0129,Latin,Arial,Italic,High
+0130,Latin,Arial,Regular,High
+0131,Latin,Bookman,Bold italic,High
+0132,Latin,Bookman,Bold,High
+0133,Latin,Bookman,Italic,High
+0134,Latin,Bookman,Regular,High
+0135,Latin,Century,Bold italic,High
+0136,Latin,Century,Bold,High
+0137,Latin,Century,Italic,High
+0138,Latin,Century,Regular,High
+0139,Latin,Comic Sans MS,Bold italic,High
+0140,Latin,Comic Sans MS,Bold,High
+0141,Latin,Comic Sans MS,Italic,High
+0142,Latin,Comic Sans MS,Regular,High
+0143,Latin,Courier New,Bold italic,High
+0144,Latin,Courier New,Bold,High
+0145,Latin,Courier New,Italic,High
+0146,Latin,Courier New,Regular,High
+0147,Latin,Impact,Bold italic,High
+0148,Latin,Impact,Bold,High
+0149,Latin,Impact,Italic,High
+0150,Latin,Impact,Regular,High
+0151,Latin,Computer Modern,Bold italic,High
+0152,Latin,Computer Modern,Bold,High
+0153,Latin,Computer Modern,Italic,High
+0154,Latin,Computer Modern,Regular,High
+0155,Latin,Times New Roman,Bold italic,High
+0156,Latin,Times New Roman,Bold,High
+0157,Latin,Times New Roman,Italic,High
+0158,Latin,Times New Roman,Regular,High
